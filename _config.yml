@@ -1,8 +1,8 @@
 # Site settings
 title: ZAPP Blog
-SEOTitle: ZAPP | ZAPP Blog
+SEOTitle: 刘旭 | ZAPP Blog
 header-img: img/home-bg.jpg
-email: liuxuhenu@gmail.com
+#email: liuxuhenu@gmail.com
 description: ""
 keyword: ""
 url: "http://liuxu926.com"              # your host, for absolute URL
