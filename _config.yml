@@ -67,34 +67,34 @@ duoshuo_share: False                     # set to false if you want to use Comme
 
 
 # Sidebar settings
-sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "写写代码，做做设计，看看产品。世界那么大，多玩玩看看。"
-sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar: False                           # whether or not using Sidebar.
+#sidebar-about-description: "写写代码，做做设计，看看产品。世界那么大，多玩玩看看。"
+#sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # Featured Tags
-featured-tags: true                     # whether or not using Feature-Tags
-featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
+featured-tags: False                     # whether or not using Feature-Tags
+#featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
 
 
 
 # Friends
-friends: [
-    {
-        title: "Hux Blog",
-        href: "http://huangxuan.me"
-    },{
-        title: "Foo",
-        href: "#"
-    },{
-        title: "Bar",
-        href: "#"
-    },{
-        title: "Example Friends",
-        href: "#"
-    },{
-        title: "It helps SEO",
-        href: "#"
-    }
-]
+#friends: [
+#   {
+#        title: "Hux Blog",
+#        href: "http://huangxuan.me"
+#    },{
+#       title: "Foo",
+#        href: "#"
+#    },{
+#        title: "Bar",
+#        href: "#"
+#    },{
+#        title: "Example Friends",
+#        href: "#"
+#    },{
+#        title: "It helps SEO",
+#        href: "#"
+#    }
+# ]
