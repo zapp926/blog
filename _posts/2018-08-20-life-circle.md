@@ -3,6 +3,7 @@ layout:     post
 title:      "人生周期论"
 subtitle:   "十二年为一轮，轮，犹轮回。其实就人的一生而言，每隔十二年似乎都是一次人生超越。你怎么理解人生周期呢？"
 date:       2018-08-20
+author: "zapp"
 header-img: "img/post-bg-unix-linux.jpg"
 tags:
     - 杂谈
