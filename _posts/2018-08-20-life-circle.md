@@ -6,10 +6,11 @@ date:       2018-08-20
 author: "zapp"
 header-img: "img/post-bg-unix-linux.jpg"
 tags:
-    - 杂谈
+    - 生活
 ---
 
-<p>
+
+
 
 ## Questions
 ### 1、你对人生周期，是如何划分的？

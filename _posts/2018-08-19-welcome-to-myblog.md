@@ -1,10 +1,9 @@
 ---
 layout:     post
-title:      "Welcome to myBlog"
-# subtitle:   "ES5, ES6, ES2016, ES.Next: What's going on with JavaScript versioning?"
+title:      "Welcome to my Blog"
 date:       2018-08-19
 author:  "zapp"
-header-img: "img/post-bg-js-version.jpg"
+header-img: "img/post-bg-2015.jpg"
 # tags:
 ---
 
