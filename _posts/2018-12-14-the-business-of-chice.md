@@ -29,7 +29,7 @@ tags:
 
 #### ChangeLog
 
-* 181214 ZAPP 完成初稿。
+* 181214 ZAPP 完成初稿
 
 
 
