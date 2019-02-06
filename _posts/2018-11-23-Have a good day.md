@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "七堂思维成长课读书笔记"
+title:      "0003.七堂思维成长课读书笔记"
 subtitle:   "如何过好每一天，到头来其实就是如何过好这一生。"
 date:       2018-11-23
 author: "zapp"
