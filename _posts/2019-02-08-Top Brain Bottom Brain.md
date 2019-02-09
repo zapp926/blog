@@ -20,7 +20,7 @@ tags:
 
 #### 四种认知模式
 
-![](https://ws4.sinaimg.cn/large/006tNc79ly1fzzbxjjj2aj30js08pmx6.jpg)
+![](https://ws1.sinaimg.cn/large/006tNc79ly1g005x85kulj30js065t8t.jpg)
 
 
 * 行动者模式
