@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "经验的疆界读书笔记"
+title:      "0001.经验的疆界读书笔记"
 subtitle:   "智慧是有效地适应环境与优雅地诠释经验。"
 date:       2018-10-23
 author: "zapp"
