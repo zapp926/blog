@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:     "你的批评，让孩子陷入自我否定；别人家的批评，让孩子成为人生赢家"
-subtitle:   "「批评会扼杀天性，使孩子失去信心」的说法，并不可信"
+title:     "写的第一篇公号文"
+subtitle:   "你的批评，让孩子陷入自我否定；别人家的批评，让孩子成为人生赢家"
 date:       2019-03-07
 author: "zapp"
 header-img: "img/post-criticize.jpg"
