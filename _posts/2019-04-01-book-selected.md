@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:     "写的第二篇公号文"
-subtitle:   "中国每年出版 4 万种图书，你知道该怎么给孩子选吗？"
+subtitle:   "中国每年出版 4 万种童书，你知道该怎么给孩子选吗？"
 date:       2019-04-01
 author: "zapp"
 header-img: "img/post-book.jpg"
