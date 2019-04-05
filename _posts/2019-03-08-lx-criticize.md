@@ -107,7 +107,7 @@ tags:
 
 在这个世界上，每个人都会犯错。「你能想到更好的办法吗?」在某些情况下，它可能是 Magic Words。就像俗语所说，「玉不琢不成器」。
 
-所以，孩子是可以批评的。高明的父母，往往会使批评变成鞭策孩子上进的动力燃料。那些「批评会扼杀天性，使孩子失去信心」的说法，并不可信。
+所以，孩子是可以批评的。高明的父母，往往会使批评变成鞭策孩子上进的动力燃料。那些「批评会扼杀天性，使孩子失去信心」的说法，并不可信。◈
 
 #### Reference
 Kamins, M. L., & Dweck, C. S. (1999). Person versus process praise and criticism: Implications for contingent self-worth and coping. Developmental psychology, 35(3), 835.
