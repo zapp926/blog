@@ -24,7 +24,7 @@ tags:
 
 我们一起来看看，著名心理学家卡罗尔·德韦克的一个关于「批评」的研究，或许能得到一点启示。
 
-![](https://ws1.sinaimg.cn/large/006tKfTcly1g0pvs220y4j30dw0dwq3a.jpg)
+![dweck-ydsgw-h_aibww.jpeg](https://pics.ibrainbaby.cn/share/dweck-ydsgw-h_aibww.jpeg)
 
 卡罗尔·德韦克博士，是斯坦福大学心理学教授，美国艺术与科学学院成员，著名的「成长型思维」就是她提出来的。
 
