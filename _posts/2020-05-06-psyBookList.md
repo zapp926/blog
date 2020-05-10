@@ -21,6 +21,7 @@ tags:
 
 #### 进阶
 - [实验心理学-通过案例入门](https://book.douban.com/subject/30305632/)
+- [实验发展心理学](http://product.dangdang.com/25225808.html)
 - [认知心理学及其启示](https://book.douban.com/subject/7067149/)
 - [心理学研究方法](https://book.douban.com/subject/3270929/)
 - [儿童发育行为心理评定量表](https://book.douban.com/subject/26777060/)
